@@ -1,0 +1,17 @@
+[
+    {
+      "name": "MVC",
+      "post_content": "Model, View, Client"
+      
+    },
+    {
+      "name": "Testing",
+      "post_content": "Jest allows you to test functions"
+      
+    },
+    {
+      "name": "SQL",
+      "post_content": "Databases that are used to hold data"
+  
+    }
+  ]
