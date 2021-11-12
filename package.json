@@ -20,13 +20,13 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DerTodd/Bottled_Up_TT.git"
+    "url": "git+https://github.com/samkilpatrick903/Homework_14"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DerTodd/Bottled_Up_TT/issues"
+    "url": "https://github.com/samkilpatrick903/Homework_14"
   },
-  "homepage": "https://github.com/DerTodd/Bottled_Up_TT#readme"
+  "homepage": "https://github.com/samkilpatrick903/Homework_14#readme"
 }
